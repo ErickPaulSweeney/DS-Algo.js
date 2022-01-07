@@ -1,3 +1,42 @@
 {
-  "files": {}
+  "files": {
+    "Day 12/day-12-morning-challenge.js": [
+      {
+        "id": "705414c3-661d-4f5e-a836-f32f57e998ca",
+        "line": 26,
+        "version": 270,
+        "index": 1034
+      }
+    ],
+    "Day 15/day-15-inclass.js": [
+      {
+        "id": "520a190e-2934-4344-b3c6-7c2541815b49",
+        "line": 41,
+        "version": 2606,
+        "index": 583
+      }
+    ],
+    "Day 16/day-16-inclass.js": [
+      {
+        "id": "59c06ca8-912c-4191-be10-cd6e7ed28cd0",
+        "line": 115,
+        "version": 1524,
+        "index": 2913
+      }
+    ],
+    "index.js": [
+      {
+        "id": "5f309efc-9bd4-410e-bd59-79e953b7f2fb",
+        "line": 1,
+        "version": 62411,
+        "index": 0
+      },
+      {
+        "id": "2278b9f5-0af1-4675-bf8d-949b31be8e7d",
+        "line": 1,
+        "version": 62411,
+        "index": 0
+      }
+    ]
+  }
 }
